@@ -1,5 +1,9 @@
 # MemPulse
 
+I was studying for Advance Operating Systems and did not really understand
+memory layouts, so I built this tool in the weekend. Feel free to test it
+out and give me some feedback.
+
 A `btop`-style terminal visualizer for how Linux lays out memory: a zoomable
 vertical "memory stick" of a process's **virtual** address space (user
 mappings, the non-canonical hole, the kernel half) and of the machine's
